@@ -26,7 +26,8 @@
 
 module key_debounce(
     input                               clk                        ,
-    input                               rst_n                      
+    input                               rst_n                      ,
+    input
 );
                                                                    
                                                                    
